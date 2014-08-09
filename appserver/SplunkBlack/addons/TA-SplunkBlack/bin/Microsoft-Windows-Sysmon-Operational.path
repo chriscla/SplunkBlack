@@ -1,0 +1,1 @@
+$SystemRoot\System32\WindowsPowerShell\v1.0\powershell.exe -command "&'$SPLUNK_HOME\etc\apps\TA-SplunkBlack\bin\powershell\Microsoft-Windows-Sysmon-Operational.ps1' -logName 'Microsoft-Windows-Sysmon/Operational' -positionFileName '$SPLUNK_HOME\etc\apps\TA-SplunkBlack\bin\powershell\Microsoft-Windows-Sysmon-Operational.log'"

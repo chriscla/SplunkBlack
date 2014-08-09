@@ -1,0 +1,7 @@
+/*
+ Hide the Activity Id field
+*/
+
+#field3 {
+    display: none;
+}
